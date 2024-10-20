@@ -1,0 +1,7 @@
+C:\Users\ku-da\Desktop\Original Audio Player.pdb
+C:\Users\ku-da\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\ku-da\Desktop\PenImc_cor3.dll
+C:\Users\ku-da\Desktop\PresentationNative_cor3.dll
+C:\Users\ku-da\Desktop\vcruntime140_cor3.dll
+C:\Users\ku-da\Desktop\wpfgfx_cor3.dll
+C:\Users\ku-da\Desktop\Original Audio Player.exe
