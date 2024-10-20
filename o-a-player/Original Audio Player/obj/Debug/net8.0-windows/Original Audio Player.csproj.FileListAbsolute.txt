@@ -1,0 +1,38 @@
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\Original Audio Player.exe
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\Original Audio Player.deps.json
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\Original Audio Player.runtimeconfig.json
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\Original Audio Player.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\Original Audio Player.pdb
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original_Audio_Player.Form1.resources
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original_Audio_Player.Properties.Resources.resources
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.csproj.GenerateResource.cache
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.AssemblyInfoInputs.cache
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.AssemblyInfo.cs
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.csproj.CoreCompileInputs.cache
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\refint\Original Audio Player.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.pdb
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.genruntimeconfig.cache
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\ref\Original Audio Player.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.csproj.AssemblyReference.cache
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original.AB2FBD9F.Up2Date
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\DirectShowLib.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original Audio Player.csproj.ResolveComReference.cache
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\NReco.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\NReco.VideoConverter.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ku-da\source\repos\o-a-player\Original Audio Player\obj\Debug\net8.0-windows\Original_Audio_Player.about.resources

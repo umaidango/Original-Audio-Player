@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|c:\\users\\ku-da\\source\\repos\\o-a-player\\original audio player\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|solutionrelative:original audio player\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|c:\\users\\ku-da\\source\\repos\\o-a-player\\original audio player\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|solutionrelative:original audio player\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|c:\\users\\ku-da\\source\\repos\\o-a-player\\original audio player\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|solutionrelative:original audio player\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|C:\\Users\\ku-da\\source\\repos\\o-a-player\\original audio player\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|solutionrelative:original audio player\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|c:\\users\\ku-da\\source\\repos\\o-a-player\\original audio player\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|solutionrelative:original audio player\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|c:\\users\\ku-da\\source\\repos\\o-a-player\\original audio player\\original audio player.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|solutionrelative:original audio player\\original audio player.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|c:\\users\\ku-da\\source\\repos\\o-a-player\\original audio player\\resources\\splash.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|solutionrelative:original audio player\\resources\\splash.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|c:\\users\\ku-da\\source\\repos\\o-a-player\\original audio player\\resources\\pen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|solutionrelative:original audio player\\resources\\pen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|c:\\users\\ku-da\\source\\repos\\o-a-player\\original audio player\\original audio player.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2F0BBDC1-43C1-42FB-A668-5CA2F29D99B7}|Original Audio Player\\Original Audio Player.csproj|solutionrelative:original audio player\\original audio player.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "about.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\about.cs",
+              "RelativeDocumentMoniker": "Original Audio Player\\about.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\about.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Original Audio Player\\about.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:25:09.248Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Original Audio Player\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Properties\\Resources.resx",
+              "RelativeToolTip": "Original Audio Player\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-19T12:13:42.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Form1.cs",
+              "RelativeDocumentMoniker": "Original Audio Player\\Form1.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Original Audio Player\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:04:07.027Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "splash.png",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Resources\\splash.png",
+              "RelativeDocumentMoniker": "Original Audio Player\\Resources\\splash.png",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Resources\\splash.png",
+              "RelativeToolTip": "Original Audio Player\\Resources\\splash.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-19T10:42:08.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pen.png",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Resources\\pen.png",
+              "RelativeDocumentMoniker": "Original Audio Player\\Resources\\pen.png",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Resources\\pen.png",
+              "RelativeToolTip": "Original Audio Player\\Resources\\pen.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-19T09:39:22.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Form1.cs",
+              "RelativeDocumentMoniker": "Original Audio Player\\Form1.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Form1.cs",
+              "RelativeToolTip": "Original Audio Player\\Form1.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAMwNUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:28:11.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Original Audio Player\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Form1.Designer.cs",
+              "RelativeToolTip": "Original Audio Player\\Form1.Designer.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAewOkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:26:20.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Original Audio Player.csproj",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Original Audio Player.csproj",
+              "RelativeDocumentMoniker": "Original Audio Player\\Original Audio Player.csproj",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Original Audio Player.csproj",
+              "RelativeToolTip": "Original Audio Player\\Original Audio Player.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T12:23:08.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Original Audio Player",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Original Audio Player.csproj",
+              "RelativeDocumentMoniker": "Original Audio Player\\Original Audio Player.csproj",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\o-a-player\\Original Audio Player\\Original Audio Player.csproj",
+              "RelativeToolTip": "Original Audio Player\\Original Audio Player.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T07:14:02.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
